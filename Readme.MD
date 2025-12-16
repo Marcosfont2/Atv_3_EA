@@ -36,7 +36,7 @@ O projeto contempla a implementação das seguintes questões:
 
 ## 🛠️ Requisitos
 
-- Compilador **g++** compatível com **C++11**
+- Compilador **g++** compatível com **C++11** ou mais recente
 - Sistema operacional: Windows, Linux ou macOS
 
 ---
